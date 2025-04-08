@@ -1,14 +1,14 @@
-#Overview
+# Overview
 
 This repository contains the test cases and scripts for both UI and API testing of the Magento platform. The tests are implemented using Playwright for UI testing and standard tools for API automation. Below are the essential setup instructions, test documentation, and links to the associated repositories.
 
-#Test Plan
+## Test Plan
 
 You can access the complete Test Plan document, which outlines the overall strategy, test scope, and objectives of the testing process, at the following link:
 
 [Test Plan](https://docs.google.com/document/d/108yupNeKOjrFsSGiwE3Mf3ib1-UV2GkH6LO6LX18nxs/edit?usp=drive_link)
 
-#Test Cases
+## Test Cases
 
 The test cases are documented in two separate Google Sheets:
 
@@ -20,13 +20,13 @@ The test cases are documented in two separate Google Sheets:
 
 [API Test Cases](https://docs.google.com/spreadsheets/d/1Zpi_w33mLdyDB-yz_THztowWSe8skRnSKAb3tGMvXRs/edit?usp=drive_link)
 
-#Bug Report
+## Bug Report
 
 A detailed Bug Report has been created based on failed test cases. This document includes information on the issues encountered during the test execution and their resolution status.
 
 [Bug Report](https://docs.google.com/document/d/1GDILZJ0TUINSeBV31Q11AY5SSEtM0u8B4BfL8nRtuVY/edit?usp=sharing)
 
-#GitHub Repositories
+## GitHub Repositories
 
 The following are the public GitHub repositories that contain the code for the UI and API tests:
 
@@ -38,7 +38,7 @@ The following are the public GitHub repositories that contain the code for the U
 
 [API Test Repository](https://github.com/binoy-d-shah/magento-api-automation)
 
-#How to Execute the Code
+## How to Execute the Code
 
 The execution steps for both the UI and API test repositories are outlined in the respective README.md files of each project. Please refer to these files for specific instructions on how to set up the environment and run the tests.
 
@@ -46,7 +46,7 @@ The execution steps for both the UI and API test repositories are outlined in th
 
 **API Test Repository:** Instructions for running the API tests are available in the [README.md](https://github.com/binoy-d-shah/magento-api-automation) of the API Test Repository.
 
-#What Could Have Been Done with more time
+## What Could Have Been Done with more time
 
 If there were more time to further enhance the testing effort, here are a few additional steps that could have been taken:
 
