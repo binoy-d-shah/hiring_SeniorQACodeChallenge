@@ -61,5 +61,5 @@ If there were more time to further enhance the testing effort, here are a few ad
 
 3. **Security Testing:** Running tests to check for vulnerabilities in the web application (such as SQL injection, XSS, and CSRF attacks) would have been important.
 
-4. Mobile Browser Testing: Expanding the UI tests to include mobile browser testing to ensure that the Magento site works seamlessly across different Mobile OS (Android, iOS).
+4. **Mobile Browser Testing:** Expanding the UI tests to include mobile browser testing to ensure that the Magento site works seamlessly across different Mobile OS (Android, iOS).
 
