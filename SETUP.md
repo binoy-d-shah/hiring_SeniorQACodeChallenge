@@ -46,7 +46,7 @@ The execution steps for both the UI and API test repositories are outlined in th
 
 **API Test Repository:** Instructions for running the API tests are available in the [README.md](https://github.com/binoy-d-shah/magento-api-automation) of the API Test Repository.
 
-## What Could Have Been Done with more time
+## What could have been done with more time
 
 If there were more time to further enhance the testing effort, here are a few additional steps that could have been taken:
 
@@ -54,7 +54,8 @@ If there were more time to further enhance the testing effort, here are a few ad
 - Applying multiple discount codes
 - Product wish list
 - Compare products
-- Rrder management.
+- Order management.
+- More API Test Cases
 
 2. **Performance Testing:** Implementing performance and load testing would be beneficial to assess the scalability and responsiveness of the Magento platform under heavy user activity.
 
